@@ -1,0 +1,13 @@
+name,group,size_of_order,frequence
+abc,large_family,6,1
+def,small_family,4,2
+ghi,small_family,3,3
+pqr,college,5,3
+mnp,single,1,2
+ozc,large_family,8,2
+qwe,small_family,3,2
+dfg,single,1,3
+vbn,college,5,4
+mnp,single,2,3
+ggg,large_family,7,2
+hhh,college,6,4
